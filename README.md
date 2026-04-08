@@ -35,7 +35,8 @@ This portfolio was created to present my projects, document my learning process,
 
 ## Live Preview
 
-The portfolio will be available through GitHub Pages.
+You can view the portfolio here:
+https://dj-crypto-cloud.github.io/public-portafolio/
 
 ## Projects Included
 
@@ -46,8 +47,3 @@ Some of the projects showcased include:
 * Personal Cybersecurity Learning Projects
 
 
-LinkedIn: https://www.linkedin.com/in/dylan-jaramillo-9b3254388/
-
-## License
-
-This project is open for learning and portfolio purposes.
